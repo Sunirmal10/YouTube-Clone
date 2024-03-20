@@ -3,11 +3,12 @@
 ## Description
 This project is a YouTube clone that replicates the modern UI/UX design of YouTube. It utilizes the Rapid API YouTube V3 API for fetching and displaying video data. The clone consists of multiple pages, including an individual video playback page with similar suggested videos, an individual channel page, and a search feed page. The application also includes a search feature to query for specific videos.
 
-The project makes extensive use of React hooks, such as `useContext`, `useRef`, `useState`, and `useEffect`, to manage state and handle interactions within the application. Material-UI components and icons are used to enhance the visual appeal and user experience.
+The project extensively uses React hooks, such as `useContext`, `useRef`, `useState`, and `useEffect`, to manage state and handle interactions within the application. Material-UI components and icons enhance the visual appeal and user experience.
 
 ## Website
 
 https://youtubeclonegen.netlify.app
+https://youtube-clone-one-lyart.vercel.app
 
 ## Features
 1. Modern UI/UX design inspired by YouTube
@@ -66,7 +67,7 @@ https://youtubeclonegen.netlify.app
 
 ## Acknowledgments
 
-1. This project is inspired by the design and functionality of YouTube.
+1. The design and functionality of YouTube inspires this project.
 
 2. The Rapid API YouTube V3 API is used for fetching video data.
 
